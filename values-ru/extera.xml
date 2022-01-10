@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- exteraGram's Main Strings -->
+    <string name="exteraAppName">exteraGram</string>
+    <string name="exteraAppNameBeta">exteraGram β</string>
+    <string name="exteraDebugMenu">¯\\_(ツ)_/¯</string>
+    <string name="MutualContact">взаимный контакт</string>
+    
+    <!-- Main Menu (about) -->
+    <string name="AboutExtera">Об exteraGram</string>
+    <string name="AboutExteraDescription">Экспериментальный Telegram-клиент, основанный на официальном исходном коде Telegram!</string>
+    <string name="Website">Команда exteraSquad</string>
+    <string name="Github">Исходный код exteraGram</string>
+    <string name="Channel">Канал в Telegram</string>
+    <string name="Chat">Чат в Telegram</string>
+    <string name="languageEnglish">Английский</string>
+    <string name="languageRussian">Русский</string>
+
+    <string name="Preferences">Настройки extera</string>
+    <string name="RestartRequired">Перезагрузите приложение, чтобы изменения вступили в силу.</string>
+
+    <string name="Categories">Категории</string>
+    <string name="Chats">Чаты</string>
+    <string name="Experimental">Экспериментальное</string>
+
+    <!-- Appearance -->
+    <string name="AppIcon">Иконка приложения</string>
+    <string name="DefaultIcon">Обычная иконка</string>
+    <string name="MaterialYouIcon">Material You</string>
+    <string name="yandexIcon">Иконка "Яндекс.Алиса"</string>
+    <string name="asscatchemIcon">Иконка от \@asscatchem</string>
+    <string name="itsv1edsIcon">Иконка от \@itsv1eds</string>
+    <string name="the8055uIcon">Иконка от \@the8055u</string>
+    <string name="ghoulghoulchanIcon">Иконка от \@ghoulghoulchan</string>
+    <string name="SystemFonts">Использовать системные шрифты</string>
+    <string name="SystemEmoji">Использовать системные эмодзи</string>
+
+    <string name="HideAllChats">Скрыть \"Все чаты\"</string>
+    <string name="HidePhoneNumber">Скрыть номер телефона</string>
+    <string name="HideProxySponsor">Скрыть "спонсора прокси"</string>
+    <string name="ChatsOnTitle">\"Чаты\" вместо \"exteraGram\"</string>
+    <string name="ShowID">Показывать ID в профиле</string>
+    <string name="SB">Прозрачный статусбар</string>
+    <string name="SBDescription">только для Android 6 и выше</string>
+    <string name="ForceTabletMode">Принудительно включить планшетный режим</string>
+
+    <string name="Drawer">Боковое меню</string>
+    <string name="Attention">ВНИМАНИЕ!</string>
+    <string name="DrawerRR">ЭТОТ ПУНКТ МОЖЕТ БЫТЬ ИЗМЕНЕН ИЛИ УДАЛЕН В БУДУЩЕМ!\nПерезагрузите приложение, чтобы изменения вступили в силу.</string>
+    <string name="PeopleNearbyDescription">Может не показываться, если GPS выключен.</string>
+
+    <!-- Chats -->
+    <string name="StickerSize">Размер стикера</string>
+    <string name="StickerTime">Скрыть время под стикером</string>
+
+    <string name="HideSendAsChannel">Скрыть кнопку \"Отправки от имени канала\"</string>
+    <string name="HideKeyboardOnScroll">Скрыть клавиатуру при пролистывании</string>
+    <string name="ArchiveOnPull">Открыть архив при вытягивании</string>
+    <string name="IncludeArchivedChatsInForwards">Добавить архивирование чаты для пересылки</string>
+    <string name="UnlimitedPinnedChats">Неограниченные закреплённые чаты</string>
+    <string name="UnlimitedPinnedChatsDescription">Позволяет закрепить неограниченное количество чатов, отключив синхронизацию.</string>
+    <string name="UnlimitedRecentStickers">Неограниченные недавние стикеры</string>
+
+    <string name="Media">Медиа</string>
+    <string name="HQVoiceMessage">Высокое качество голосовых сообщений</string>
+    <string name="RearVideoMessages">Задняя камера в видеосообщениях</string>
+    <string name="Autopause">Автопауза</string>
+    <string name="AutopauseDescription">Останавливает видео, когда девайс блокируется или exteraGram сворачивается</string>
+    <string name="DisablePlayback">Отключить проигрывание</string>
+    <string name="DisablePlaybackDescription">Отключает проигрывание, когда кнопка громкости нажата</string>
+    
+    <string name="ConfirmCall">Подтверждение звонка</string>
+    <string name="CallTo">Позвонить **%1$s**?</string>
+</resources>
