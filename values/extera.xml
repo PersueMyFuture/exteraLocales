@@ -38,7 +38,7 @@
     <string name="HideAllChats">Hide \"All Chats\" Tab</string>
     <string name="HidePhoneNumber">Hide Phone Number</string>
     <string name="HideProxySponsor">Hide Proxy Sponsor</string>
-    <string name="ChatsOnTitle">"Chats" instead of "exteraGram"</string>
+    <string name="ChatsOnTitle">\"Chats\" instead of \"exteraGram\"</string>
     <string name="ShowID">Show ID in Profile</string>
     <string name="SB">Transparent Statusbar</string>
     <string name="SBDescription">only for Android 6+</string>
@@ -53,7 +53,7 @@
     <string name="StickerSize">Stickers size</string>
     <string name="StickerTime">Hide time under stickers</string>
 
-    <string name="HideSendAsChannel">Hide "Send as Channel"</string>
+    <string name="HideSendAsChannel">Hide \"Send as Channel\"</string>
     <string name="HideKeyboardOnScroll">Hide Keyboard on Scrolling</string>
     <string name="ArchiveOnPull">Open Archive on Pulldown</string>
     <string name="IncludeArchivedChatsInForwards">Include archived chats for forwards</string>

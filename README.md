@@ -18,5 +18,5 @@ Add your changes, save them and create a commit with those changes:
 ```
 git add *
 git commit -a -m "Translations for values-**%countrycode%**"
-git push master
+git push origin main
 ```
